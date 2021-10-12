@@ -2,4 +2,4 @@
 - 👀 I’m interested in learning clean and efficient coding skills.
 - 🌱 I’m currently learning C++ and Java.
 - 💞️ I’m looking to collaborate on pretty much anything as it will help me grow professionaly.
-- 📫 You can reach me at georgianamariacraciun@gmail.com.
+- 📫 You can reach me at georgianamariacraciun@gmail.com
